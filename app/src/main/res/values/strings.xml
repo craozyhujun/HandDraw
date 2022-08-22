@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HandDraw</string>
+    <string name="color" >颜色</string>
+    <string name="color_red">红色</string>
+    <string name="color_green">绿色</string>
+    <string name="color_blue">蓝色</string>
+    <string name="width">宽度</string>
+    <string name="width_1">细</string>
+    <string name="width_3">中</string>
+    <string name="width_5">粗</string>
+    <string name="blur">刷子</string>
+    <string name="emboss">橡皮擦</string>
+</resources>
